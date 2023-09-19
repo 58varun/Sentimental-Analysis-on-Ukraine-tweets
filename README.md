@@ -14,4 +14,7 @@ Data was collected from Twitter. I found the tweets on Twitter which are related
 
 From the Sentiment Analysis, we can clearly observe that most of the people are having a negative sentiment toward the war. They are against it.  By the results of LDA, we can clearly notice that most people have positive sentiments towards Ukraine and negative sentiments towards Russia. The hashtags clearly reflect how they support Ukraine and are against the war by Russia.
 
+Thank you.
+
+
 
